@@ -1,4 +1,3 @@
-const 
 const {Client,IntentsBitFeild}= require("discord.js")
 const client = new Client({
     intents:[
